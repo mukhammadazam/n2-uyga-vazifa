@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.wrapper{
+    background-color: #999;
+
+}
+
+.list{
+    width: 600px;
+    margin: 0 auto;
+}
+.q{
+    width: 700px;
+}
+
+.item-list{
+    font-size: 20px;
+color:#000;
+display: block;
+
+}
